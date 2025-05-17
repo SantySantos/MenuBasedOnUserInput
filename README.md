@@ -8,12 +8,12 @@ This repository contains the source code of the a final project application for 
 This project was written in C#. It aims to demonstrate strong principles in structured programming.
 
 #### 🔧Features
--Conditional logic.
--Basic error handling
--Loop structures
--Efficient input parsing
--Basic arithmetic
--Console text with colors for better user experience.
+  - Conditional logic.
+  - Basic error handling
+  - Loop structures
+  - Efficient input parsing
+  - Basic arithmetic
+  - Console text with colors for better user experience.
   
 #### ⚡Technical Details
 - **IDE:** Built using Visual Studio 2022.
@@ -25,9 +25,9 @@ This project was written in C#. It aims to demonstrate strong principles in stru
 3. Compile and run the project to start the app.
 
 ### ✍️Authors
-  -Santiago Santos
-  -Lorenzo Gabriel Marquez
-  -Alexander Oughourlian
+- Santiago Santos
+- Lorenzo Gabriel Marquez
+- Alexander Oughourlian
   
 ### 📌Notes
 - Feel free to modify and explore the code as wished.
